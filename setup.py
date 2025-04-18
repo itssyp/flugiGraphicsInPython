@@ -1,3 +1,5 @@
+from setuptools import setup, find_packages
+
 setup(
     name='FlugiGraphics',
     version='0.1',
@@ -10,7 +12,7 @@ setup(
     description='flugigraphics in python dudes',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/SimpleGraphics',
+    url='https://github.com/itssyp/flugiGraphicsInPython',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
