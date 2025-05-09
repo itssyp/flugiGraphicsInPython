@@ -3,6 +3,12 @@ Welcome to FlugiGraphics's documentation!
 
 FlugiGraphics is a minimal Pygame-based graphics framework designed for educational use, lightweight graphics prototyping, and simple 2D drawing. It provides an event abstraction layer, buffered drawing, mouse/keyboard input handling, and image export capabilities.
 
+Source Code
+-----------
+
+You can view the full source code at:
+
+`GitHub Repository <https://github.com/yourusername/simplegraphics>`_
 
 Install
 --------
