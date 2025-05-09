@@ -9,6 +9,18 @@ FlugiGraphics is a minimal Pygame-based graphics framework designed for educatio
 
    modules
 
+Install
+--------
+.. code-block:: bash
+
+   pip install FlugiGraphics
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   modules
+
 Examples
 --------
 
