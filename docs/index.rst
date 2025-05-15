@@ -8,7 +8,7 @@ Source Code
 
 You can view the full source code at:
 
-`GitHub Repository <https://github.com/yourusername/simplegraphics>`_
+`GitHub Repository <https://github.com/itssyp/flugiGraphicsInPython>`_
 
 Install
 --------
